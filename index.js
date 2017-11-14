@@ -6,7 +6,7 @@ class BoardMember{
 
   veto(){
     returns `No, I must disagree`}
-
+/*
   + `approve` — returns `You can do that!`
 
   + `doCharity` — returns `I like to help people.`
@@ -15,7 +15,7 @@ class BoardMember{
 
   + `sayHi` — returns `"Hi, my name is <name>. I am from <homestate>, and I was trained in <training>.`
 
-
+*/
 
 
 
